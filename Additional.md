@@ -1,3 +1,3 @@
 Test Branch
-Строка в ветке master
+Строка в ветке master, тест конфликта...
 Строка в ветке awesome-feature
